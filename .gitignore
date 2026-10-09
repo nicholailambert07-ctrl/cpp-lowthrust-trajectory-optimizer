@@ -1,0 +1,17 @@
+# Compiled binaries
+main
+a.out
+*.o
+
+# Simulation data files
+optimal_trajectory.csv
+rk4_trajectory.csv
+rk4_3d_trajectory.csv
+rk4_perturbed_trajectory.csv
+
+# Python environment
+venv/
+__pycache__/
+
+# VS Code settings
+.vscode/
